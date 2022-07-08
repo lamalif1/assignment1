@@ -1,0 +1,198 @@
+.div-style1{
+    background-image: url(img/Untitled\ design\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: relative;
+    height: 550px;
+    overflow: hidden;
+    margin-bottom: 150px;
+}
+.heading-background{
+    background: rgb(216, 210, 210);
+}
+
+
+.heading-style{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 0, 0);  
+}
+.para-style1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background: white;
+}
+
+.button-style{
+    height:50px;
+    width:150px;
+    background-color:rgb(59, 228, 87);
+    color:rgb(0, 0, 0);
+    font-weight: 900;
+    border-radius: 10px;
+}
+html,body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'The Nautigal', cursive;
+    font-family: 'Titan One', cursive;
+    font-family: 'Trispace', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.heading-style2{
+    height: 60px;
+    width: 90px;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;  
+    padding: 30px;
+}
+
+
+.heading-style3{
+    border-radius: 7px;
+    border: 2px solid rgb(48, 216, 56);
+    background-color: rgb(172, 238, 172);
+    padding: 30px;
+}
+
+section{
+    display: flex;
+}
+.para-style2{
+    margin-bottom: 60px;
+    font-size:20px;
+}
+.input-section{
+    border: none;
+    border-bottom: 2px solid #000;
+    margin-bottom: 25px;
+}
+.section-style{
+    margin-bottom: 40px;
+ 
+}
+.fexiable{
+    display: flex;
+    
+}
+.div{
+    margin-left: 20px;
+    padding: 10px;
+}
+.extra-style-div{
+    background-color: rgb(247, 163, 163);
+}
+.extra-style-div1{
+    background-color: rgb(162, 253, 192);
+
+}
+.extra-style-div2{
+    background-color: rgb(144, 233, 245);
+    margin-right: 10px;
+
+}
+.section-style0{
+    display:flex;
+
+}
+.divition{
+    width: 50%;
+    margin-top: 150px;
+    margin-left: 15px;
+}
+.section img{
+    width: 80%;
+    margin-right: 15px;
+}
+.footer {
+
+    width: auto;
+    height: 150px;
+    background-color: rgb(26, 25, 25);
+    padding-top: 60px;
+    margin-top: 30px;
+
+}
+.main-text2 {
+
+    text-align: center;
+    font-weight: 600;
+}
+.color {
+
+    color: rgb(243, 53, 85);
+
+}
+
+
+.sub-text2 {
+
+    text-align: center;
+}
+.sub-section2 {
+
+    padding: 40px;
+    background-color: rgb(235, 202, 160);
+    width: 500px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+
+
+}
+.mail-section {
+
+    height: 200px;
+    width: 40%;
+    background-color: rgb(173, 238, 153);
+    margin-left: 30%;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+
+
+
+
+}
+
+.email {
+    display: flex;
+    padding-left: 110px;
+    padding-top: 60px;
+
+
+
+}
+.email h4 {
+
+    height: 30px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 5px;
+    padding-top: 3px;
+    color: rgb(104, 98, 98);
+
+}
+
+.email h5 {
+
+    height: 30px;
+    width: 80px;
+    background-color: rgb(106, 235, 144);
+    padding-top: 5px;
+    padding-left: 5px;
+    color: white;
+}
+.something{
+    margin-left: 350px;
+}
+.something2{
+    margin-top: 100px;
+}
